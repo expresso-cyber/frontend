@@ -1,0 +1,3 @@
+t1 = (34,67,"Hello")
+
+new_li = lis

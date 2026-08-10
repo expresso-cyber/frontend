@@ -1,0 +1,23 @@
+Q1) Accept the percentage from the user and display the grade according to the following criteria:
+
+Below 25 —- D
+25 to 45 —- C
+45 to 50 —- B
+50 to 60 –– B+
+60 to 80 — A
+Above 80 –- A+
+
+Q2) Accept three sides of a triangle and check whether it is an equilateral, isosceles or scalene triangle.
+
+Q3) Write a program to check whether the last digit of a number( entered by user ) is divisible by 3 or not.
+(hint : any number % 10 will return the last digit)
+
+Q4) Convert month name to a number of days(if else)
+
+Q5) Take input from the user and find the second largest number (middle value) of three Numbers
+
+Q6) Python program to enter week number and print day of week
+
+Q7) Python program to check vowel.
+
+Q8) Python program to find maximum between three numbers
