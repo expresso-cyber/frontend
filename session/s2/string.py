@@ -8,12 +8,10 @@
 #a = 'Python'
 #print(a[0])
 #print(len(a))
-'''
-b = input('Enter your string: ').strip()
-length = len(b)-1
-print(b[length])
-print(b[-1])
-'''
+# b = input('Enter your string: ').strip()
+# length = len(b)-1
+# print(b[length])
+# print(b[-1])
 
 # String slicing
 
