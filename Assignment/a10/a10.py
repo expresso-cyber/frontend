@@ -20,7 +20,9 @@ print(res)
 # Q3 ) Print movies from 2005 to 2010 which ratings are above 8.
 
 rate = data["Rating"] > 8
-movies = data[(data["Year"] >= 2005) & (data["Year"] <= 2010) & (rate)]
+fromYear = (data["Year"] >= 2005)
+toYear = (data["Year"] <= 2010)
+movies = data[fromYear & toYear & (rate)]
 print(movies)
 
 #  Q4) Create new column name "rating_catogory" and check whether ratings are above 8 then print "good" else "bad" in "rating_catogory".
