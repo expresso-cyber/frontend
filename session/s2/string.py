@@ -29,39 +29,40 @@
 #print(m[-8:-16:-1])
 
 # String Methods
-'''
-a = 'hello'.upper()
-print(a)
-b = 'HELLO'.lower()
-print(b)
-c = '   hello Dev    '
-print(c.strip().capitalize())
-d = 'hello Dev'.capitalize()
-print(d)
-e = 'hello Dev'.title()
-print(e)
-f = 'AAAHalloaaaa'
-g = f.replace('a','e').lower()
-print(g)
+# '''
+# a = 'hello'.upper()
+# print(a)
+# b = 'HELLO'.lower()
+# print(b)
+# c = '   hello Dev    '
+# print(c.strip().capitalize())
+# d = 'hello Dev'.capitalize()
+# print(d)
+# e = 'hello Dev'.title()
+# print(e)
+# f = 'AAAHalloaaaa'
+# g = f.replace('a','e').lower()
+# print(g)
 
-i = 'hello'
-print(i.startswith('he'))
-print(i.endswith('la'))
-'''
+# i = 'hello'
+# print(i.startswith('he'))
+# print(i.endswith('la'))
+# '''
+
 #j =  'Hello'
 #print(j.index('e'))
 #print(j.count('d'))
-'''
-a,d = 10,'Dev'
-print(a)
-print(d)
-'''
-'''
-# f string  ->  formetted string
-a = 'Dev'
-b = 34
-print(f"My name is {a} and age is {b}.")
-'''
+# '''
+# a,d = 10,'Dev'
+# print(a)
+# print(d)
+# '''
+# '''
+# # f string  ->  formetted string
+# a = 'Dev'
+# b = 34
+# print(f"My name is {a} and age is {b}.")
+# '''
 
 
 # 2. Non - Primitive data types  (Mutable)
@@ -72,12 +73,12 @@ print(f"My name is {a} and age is {b}.")
 
 
 #a.list     []    mutable
-'''
-li1 = ['Dev',12,34,'Python',23.45]
-print(li1)
-print(type(li1))
-print(len(li1))
-'''
+# '''
+# li1 = ['Dev',12,34,'Python',23.45]
+# print(li1)
+# print(type(li1))
+# print(len(li1))
+# '''
 
 # list indexing / slicing
 

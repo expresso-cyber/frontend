@@ -101,3 +101,10 @@ print(list1)
 
 a = 'Python'
 print(a[0])
+
+x = [1,3,54,32,56,17,24]
+
+even = [i if i % 2 != 0 else i*i for i in x]
+print(even)
+
+print("Present" if 42 in x else "not present")
